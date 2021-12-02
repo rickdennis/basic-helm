@@ -1,0 +1,8 @@
+# Default values for basic-helm.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+envVars:
+  alpha: "ALPHA1"
+  bravo: "BRAVO2"
+  charlie: "CHARLIE3"
